@@ -1,24 +1,24 @@
-## Hello, welcome to my page!
+## Welcome to my page!
 
 My name is Jaehee Yoo and I am a 3rd year Computer Science major. I am a Korean-American born in Los Angeles, but currently residing in San Diego for the school year. ~~can someone PLEASE offer me a summer internship im begging~~ 
 
 Although my full first name is Jaehee, please feel free to call me Jae!
 
+Please connect with me on [LinkedIn](https://www.linkedin.com/in/jaeheeyoo/)!
+
 ### Hobbies
 
 Some of my hobbies include:
-- Listening to new music
-- Enjoying/Cooking food
-- Surfing
-- Rock Climbing
-- Reading
-- Playing with my dog Louie
+-Listening to new music
+-Enjoying/Cooking food
+-Surfing
+-Rock Climbing
+-Reading
+-Playing with my dog Louie
 
 Here's Louie: 
-![louie](https://github.com/jaeyoo0609/jaeyoo0609.github.io/blob/main/IMG-6281.JPG)
+![louie]()
 
-Something Louie always likes to say:
-> What are you stupid? Dogs don't speak English, idiot.
 ```markdown
 Syntax highlighted code block
 
