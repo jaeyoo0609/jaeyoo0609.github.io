@@ -4,6 +4,8 @@ My name is Jaehee Yoo and I am a 3rd year Computer Science major. I am a Korean-
 
 Although my full first name is Jaehee, please feel free to call me Jae!
 
+Here are my [hobbies](https://github.com/jaeyoo0609/jaeyoo0609.github.io/blob/main/index.md#hobbies).
+
 Please connect with me on [LinkedIn](https://www.linkedin.com/in/jaeheeyoo/)!
 
 ### Hobbies
