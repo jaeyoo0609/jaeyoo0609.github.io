@@ -19,7 +19,7 @@ Some of my hobbies include:
 - Playing with my dog Louie
 
 Here's Louie: 
-![louie](IMG-6281.jpg)
+![louie](louie.jpg)
 
 One of the things Louie loves to say:
 > Please provide Jae a summer internship, he is in desperate need of one, and it pains me to see him like this, this is definitely not Jae speaking for me, this is me Louie the dog, learning to speak English so that you could see this much needed message. 
