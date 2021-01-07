@@ -7,12 +7,12 @@ Although my full first name is Jaehee, please feel free to call me Jae!
 ### Hobbies
 
 Some of my hobbies include:
--Listening to new music
--Enjoying/Cooking food
--Surfing
--Rock Climbing
--Reading
--Playing with my dog Louie
+- Listening to new music
+- Enjoying/Cooking food
+- Surfing
+- Rock Climbing
+- Reading
+- Playing with my dog Louie
 
 Here's Louie: 
 ![louie](https://github.com/jaeyoo0609/jaeyoo0609.github.io/blob/main/IMG-6281.JPG)
