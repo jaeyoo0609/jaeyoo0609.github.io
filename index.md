@@ -17,6 +17,8 @@ Some of my hobbies include:
 Here's Louie: 
 ![louie](https://github.com/jaeyoo0609/jaeyoo0609.github.io/blob/main/IMG-6281.JPG)
 
+Something Louie always likes to say:
+> What are you stupid? Dogs don't speak English, idiot.
 ```markdown
 Syntax highlighted code block
 
