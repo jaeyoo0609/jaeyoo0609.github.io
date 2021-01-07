@@ -19,7 +19,7 @@ Some of my hobbies include:
 - Playing with my dog Louie
 
 Here's Louie: 
-![louie](jaeyoo0609.github.io/blob/main/IMG-6281.JPG)
+![louie](https://github.com/jaeyoo0609/jaeyoo0609.github.io/blob/main/IMG-6281.JPG)
 
 One of the things Louie loves to say:
 > Please provide Jae a summer internship, he is in desperate need of one, and it pains me to see him like this, this is definitely not Jae speaking for me, this is me Louie the dog, learning to speak English so that you could see this much needed message. 
@@ -29,3 +29,7 @@ One of the things Louie loves to say:
 - [ ] Shower
 - [ ] Lectures
 
+Here's how to write import the math library in python:
+ ```
+ import math
+```
