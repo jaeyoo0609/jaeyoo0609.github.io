@@ -1,12 +1,21 @@
-## Welcome to GitHub Pages
+## Welcome to my page!
 
-You can use the [editor on GitHub](https://github.com/jaeyoo0609/jaeyoo0609.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+My name is Jaehee Yoo and I am a 3rd year Computer Science major. I am a Korean-American born in Los Angeles, but currently residing in San Diego for the school year. ~~can someone PLEASE offer me a summer internship im begging~~ 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Although my full first name is Jaehee, please feel free to call me Jae!
 
-### Markdown
+### Hobbies
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Some of my hobbies include:
+-Listening to new music
+-Enjoying/Cooking food
+-Surfing
+-Rock Climbing
+-Reading
+-Playing with my dog Louie
+
+Here's Louie: 
+![louie]()
 
 ```markdown
 Syntax highlighted code block
