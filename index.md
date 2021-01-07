@@ -9,15 +9,15 @@ Please connect with me on [LinkedIn](https://www.linkedin.com/in/jaeheeyoo/)!
 ### Hobbies
 
 Some of my hobbies include:
--Listening to new music
--Enjoying/Cooking food
--Surfing
--Rock Climbing
--Reading
--Playing with my dog Louie
+- Listening to new music
+- Enjoying/Cooking food
+- Surfing
+- Rock Climbing
+- Reading
+- Playing with my dog Louie
 
 Here's Louie: 
-![louie]()
+![louie](https://github.com/jaeyoo0609/jaeyoo0609.github.io/blob/main/IMG-6281.JPG)
 
 ```markdown
 Syntax highlighted code block
