@@ -23,7 +23,6 @@ One of the things Louie loves to say:
 > Please provide Jae a summer internship, he is in desperate need of one, and it pains me to see him like this, this is definitely not Jae speaking for me, this is me Louie the dog, learning to speak English so that you could see this much needed message. 
 
 ### Things I Need to Do Today
-- [X]Daily Existential Crisis
-- [ ]Lectures
-- [ ]Laundry
-- [X]Eat Lunch
+- [x] Finish my changes
+- [ ] Push my commits to GitHub
+- [ ] Open a pull request
