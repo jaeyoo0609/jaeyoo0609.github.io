@@ -1,4 +1,4 @@
-## Welcome to my page!
+## Hello, welcome to my page!
 
 My name is Jaehee Yoo and I am a 3rd year Computer Science major. I am a Korean-American born in Los Angeles, but currently residing in San Diego for the school year. ~~can someone PLEASE offer me a summer internship im begging~~ 
 
