@@ -15,7 +15,7 @@ Some of my hobbies include:
 -Playing with my dog Louie
 
 Here's Louie: 
-![louie]()
+![louie](https://github.com/jaeyoo0609/jaeyoo0609.github.io/blob/main/IMG-6281.JPG)
 
 ```markdown
 Syntax highlighted code block
