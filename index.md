@@ -20,32 +20,10 @@ Here's Louie:
 ![louie](https://github.com/jaeyoo0609/jaeyoo0609.github.io/blob/main/IMG-6281.JPG)
 
 One of the things Louie loves to say:
-> Please provide Jae a summer internship, he is desperately needs one, and it pains me to see him in so much pain, this is definitely not Jae speaking for me, this is me Louie the dog, learning to speak English so that you could see this much needed message. 
+> Please provide Jae a summer internship, he is in desperate need of one, and it pains me to see him like this, this is definitely not Jae speaking for me, this is me Louie the dog, learning to speak English so that you could see this much needed message. 
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jaeyoo0609/jaeyoo0609.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Things I Need to Do Today
+- [x]Daily Existential Crisis
+- [ ]Lectures
+- [ ]Laundry
+- [x]Eat Lunch
