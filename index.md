@@ -8,6 +8,6 @@ Please connect with me on [LinkedIn](https://www.linkedin.com/in/jaeheeyoo/)!
 
 ### Show What You Know Video Explanations
 * Week 1: 
-* Week 2: [Video](https://youtu.be/br97eRo_cuU)
+* Week 2: [Video](https://youtu.be/QsjU3czHkB4)
 
 
