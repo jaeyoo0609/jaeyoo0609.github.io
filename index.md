@@ -10,5 +10,5 @@ Please connect with me on [LinkedIn](https://www.linkedin.com/in/jaeheeyoo/)!
 * Week 1: 
 * Week 2: [Break Dance Video](https://youtu.be/QsjU3czHkB4)
 * Week 2: [Your Quest](https://youtu.be/sr7xlV2lE38)
-
+* Week 3: [Octogan Mouse](https://youtu.be/U1zl07MeW1I)
 
