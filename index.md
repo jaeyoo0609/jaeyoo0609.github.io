@@ -17,3 +17,4 @@ Please connect with me on [LinkedIn](https://www.linkedin.com/in/jaeheeyoo/)!
 * Week 6: [Ball Game](https://youtu.be/6praIriA4OU)
 * Week 7: [Penguin at the Beach](https://youtu.be/VqASf5f38HM)
 * Week 8: [Hidden Treasure](https://youtu.be/iu1TmSUxDJw)
+* Week 9: [Paint a Picture](https://youtu.be/V2EReTGauSY)
