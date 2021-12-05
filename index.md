@@ -18,3 +18,4 @@ Please connect with me on [LinkedIn](https://www.linkedin.com/in/jaeheeyoo/)!
 * Week 7: [Penguin at the Beach](https://youtu.be/VqASf5f38HM)
 * Week 8: [Hidden Treasure](https://youtu.be/iu1TmSUxDJw)
 * Week 9: [Paint a Picture](https://youtu.be/V2EReTGauSY)
+* Week 10: [Countries on a Map](https://youtu.be/VvtKWjeVV5E)
